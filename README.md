@@ -2,4 +2,5 @@
 # git-atelier
 Basic boilerplate to start future projects.
 
-COUCOU
+Je suis une ligne en conflit !
+
